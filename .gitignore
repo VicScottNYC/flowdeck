@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+*.db
+# Node
+node_modules/
+frontend/dist/
+# Env & secrets
+.env
+.env.*
+!.env.example
+# Simulator output
+simulator/out/
+# OS / editors
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+# Azure
+.azure/
