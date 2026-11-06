@@ -1,0 +1,10 @@
+{
+  "engine": "offline",
+  "seeds": 10,
+  "questions": 110,
+  "exact_answer_accuracy": 100.0,
+  "grounded_pct": 100.0,
+  "privacy_leaks": [],
+  "privacy_pass": true,
+  "failures": []
+}

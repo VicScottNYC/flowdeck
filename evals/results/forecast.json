@@ -1,0 +1,25 @@
+{
+  "seeds": 30,
+  "checkpoints": [
+    "08:00",
+    "10:00",
+    "12:00",
+    "14:00",
+    "16:00"
+  ],
+  "units_per_checkpoint": 5,
+  "results": {
+    "4h": {
+      "forecasts": 750,
+      "mae_beds_model": 1.22,
+      "mae_beds_baseline": 1.8,
+      "improvement_pct": 32.1
+    },
+    "8h": {
+      "forecasts": 750,
+      "mae_beds_model": 1.77,
+      "mae_beds_baseline": 2.69,
+      "improvement_pct": 34.0
+    }
+  }
+}
