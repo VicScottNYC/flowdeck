@@ -1,0 +1,13 @@
+{
+  "facility": "MERIDIAN",
+  "name": "Meridian General Hospital (fictional)",
+  "note": "Fictional 172-bed hospital used for all FlowDeck demos. Not a real facility.",
+  "units": [
+    {"code": "ED",  "name": "Emergency Department", "service": "EMR", "rooms": 20, "first_room": 1,   "beds_per_room": 1},
+    {"code": "ICU", "name": "Intensive Care Unit",  "service": "ICU", "rooms": 16, "first_room": 101, "beds_per_room": 1},
+    {"code": "4W",  "name": "4 West Medical",       "service": "MED", "rooms": 20, "first_room": 401, "beds_per_room": 2},
+    {"code": "5E",  "name": "5 East Surgical",      "service": "SUR", "rooms": 20, "first_room": 501, "beds_per_room": 2},
+    {"code": "6N",  "name": "6 North Telemetry",    "service": "TEL", "rooms": 16, "first_room": 601, "beds_per_room": 2},
+    {"code": "7S",  "name": "7 South Ortho",        "service": "ORT", "rooms": 12, "first_room": 701, "beds_per_room": 2}
+  ]
+}
