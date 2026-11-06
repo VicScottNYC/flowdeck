@@ -6,6 +6,8 @@
 
 FlowDeck listens to the HL7 v2 feed that a legacy hospital information system already sends. On top of it, it adds a live bed board, discharge-barrier tracking across departments, an evaluated capacity forecast and a grounded AI operations assistant. **It doesn't replace the legacy system or make any change to it.**
 
+**[Download the project brochure (PDF)](https://github.com/VicScottNYC/flowdeck/raw/main/docs/FlowDeck-Brochure.pdf)**
+
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
